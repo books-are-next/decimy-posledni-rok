@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: '* * *'
+contentType: poetry
 ---
-
-## \* \* \*
 
 Byla jsi delikátní snítka bezu  
 a já byl mlsná huba oře.  

@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: "*\_*\_*"
+contentType: poetry
 ---
-
-## \* \* \*
 
 Myslím zas na kořínky  
 obalené váčky slepené hlíny —  

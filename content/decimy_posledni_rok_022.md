@@ -1,9 +1,7 @@
 ---
-contentType: prose
+title: "Starej trik s\_chrámem panny Rejčky"
+contentType: poetry
 ---
-
-## Starej trik s chrámem  
-panny Rejčky
 
 Projdeš se, Haničko? Pojď.  
 Vezmeme zápalky do tmy u kostela  

@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: ''
+contentType: poetry
 ---
 
 „Jaro?“ ptám se přes zavřené dveře.

@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Decimy; Poslední rok
   identifier: 469554fb-9671-48c8-abe5-f9efca6d2c1e
   author: Martin Reiner
   publisher: Městská knihovna v Praze
   modified: '2019-10-22T00:00:00.000Z'
+  contentType: poetry
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - promo.html
   - decimy_posledni_rok_001.html
@@ -94,6 +98,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

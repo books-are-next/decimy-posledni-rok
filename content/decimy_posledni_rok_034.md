@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Nocturno
+contentType: poetry
 ---
-
-## Nocturno
 
 Ticho žebrá v noci. A ta natažená ruka,  
 ty prsty na mé mošně vzbouzejí pocit,  

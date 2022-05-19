@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: '* * *'
+contentType: poetry
 ---
-
-## \* \* \*
 
 Zavoněl koks, na stránkách Šlaráfie  
 bájná, ale nad námi doly plné uhlí.  

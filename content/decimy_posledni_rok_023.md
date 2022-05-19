@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Tvá perspektiva
+contentType: poetry
 ---
 
-## Tvá perspektiva
-
-Ivanu Blatnému
+_Ivanu Blatnému_
 
 Ach štíhlá vázo holuba, žalostná svým  
 sisyfovským stáním na římsách a v okapech!  
@@ -15,5 +14,5 @@ z městských krematorií.
 slzy pozůstalých Brno omyjí,  
 až už mně nepůjdou ženy po pyji,  
 protože budu v zemi celý trouchniv,  
-až myšlenky mé budou oděny v sukno niv,  
+až myšlenky mé budou oděny v _sukno niv_,  
 pak z tebe — to si piš! — se ještě rádi napijí.

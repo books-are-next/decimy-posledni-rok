@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: ''
+contentType: poetry
 ---
 
 Na holé větve věší prosincové ráno řídká prostěradla. Smutné tribunály za každým vřelejším stiskem.

@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Nedělní odpoledne po kopané
+contentType: poetry
 ---
-
-## Nedělní odpoledne po kopané
 
 Hořavy v oknech Kampeličky spoří,  
 seno je malátné. Po římse vraník  

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "*\_*\_*"
+contentType: poetry
 ---
 
-## \* \* \*
-
-Kamile Bělunkové
+_Kamile Bělunkové_
 
 Vlásek po vlásku tě uklízím ze života,  
 zákeřných tenat je pořád plná postel.  

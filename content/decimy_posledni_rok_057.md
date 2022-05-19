@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: ''
+contentType: poetry
 ---
 
 Po třech týdnech v Římě jsem teď na nějaký čas v Capeně. Jím jen trochu, kouřím denně čtyři cigarety. Od rána do večera se učím italštinu, vycházím jen na krátké procházky. Bydlím tady sám ve středověku, neboť celá část Capeny, v níž je i tenhle domek, je původní, středověká. Některé interiéry jsou poněkud adaptované, nejsou to ovšem žádné turistické atrapy – tady se opravdu žije. Domek stojí na skále a já se dívám z okna hluboko do údolí. Všude desítky divokých koček, jedna občas vyskočí do mého okna a kouká; za chvíli jde zase po svých. Po stěnách leze exotický hmyz…

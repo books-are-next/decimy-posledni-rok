@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: ''
+contentType: poetry
 ---
 
 Čekám na přítele v opuštěném domě. Nepřijde-li, budu mu vyprávět svůj příběh. Dívám se z okna, roky plynou. Musím začít hned!

@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Pěvec
+contentType: poetry
 ---
-
-## Pěvec
 
 Hosty své večerní odvádí do ticha,  
 vězte však: není to nikterak snadné.  

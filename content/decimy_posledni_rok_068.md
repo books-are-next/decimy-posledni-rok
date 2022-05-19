@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: ''
+contentType: poetry
 ---
 
 Buď jaká buď, a tedy: buď jaká jsi.

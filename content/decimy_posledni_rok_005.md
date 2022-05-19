@@ -1,6 +1,6 @@
 ---
-contentType: prose
+title: DECIMY (1992–1995)
+contentType: poetry
 ---
 
-# DECIMY  
-(1992–1995)
+

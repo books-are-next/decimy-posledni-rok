@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Sen
+contentType: poetry
 ---
-
-## Sen
 
 Bouchly dveře. Odešla Nostalgie —  
 a už mi nevystrojí, jak dříve vystrojila.  

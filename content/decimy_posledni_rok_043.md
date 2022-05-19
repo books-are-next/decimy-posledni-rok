@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: ''
+contentType: poetry
 ---
 
 Prší. Zpěv ptáků, paprsky slunce.  

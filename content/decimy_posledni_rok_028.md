@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Budoucí něha
+contentType: poetry
 ---
-
-## Budoucí něha
 
 Stejně se obracím, ač neměl bych:  
 tu kštice hořícího lesa,  

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Hebkost let minulých
+contentType: poetry
 ---
 
-## Hebkost let minulých
-
-Mirce Havlíkové
+_Mirce Havlíkové_
 
 Stojím tu v kalhotách mrtvého kamaráda.  
 Je půlnoc. Hudba dohrála a jen  

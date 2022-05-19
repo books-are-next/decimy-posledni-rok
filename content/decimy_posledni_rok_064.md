@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: ''
+contentType: poetry
 ---
 
 Půjdu na zahradu, kde jemné čeření větru probouzí trávu z malátného bezvědomí. Pohnou se lístky na meruňce, sobotní vítr přejde přes korunu a chvějící se strom vstoupí do nového dne.

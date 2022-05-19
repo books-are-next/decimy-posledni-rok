@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: ITALSKÉ INTERMEZZO
+contentType: poetry
 ---
 
-## ITALSKÉ INTERMEZZO
+

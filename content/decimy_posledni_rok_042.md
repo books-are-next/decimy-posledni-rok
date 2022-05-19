@@ -1,6 +1,6 @@
 ---
-contentType: prose
+title: POSLEDNÍ ROK (1991–1992)
+contentType: poetry
 ---
 
-# POSLEDNÍ ROK  
-(1991–1992)
+

@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: '* * *'
+contentType: poetry
 ---
-
-## \* \* \*
 
 Musím se zmínit o dráze této střely:
 

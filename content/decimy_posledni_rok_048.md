@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: ''
+contentType: poetry
 ---
 
 Ze zubů vytrhat plevel – a svět se pomalu rozpadá.

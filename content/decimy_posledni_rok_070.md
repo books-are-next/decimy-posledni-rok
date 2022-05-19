@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: ''
+contentType: poetry
 ---
 
 To není svědectví, to je jen modlitba, která má vrátit všechno zpět. Údivy, rozkoše, výkřiky, mé i tvé.

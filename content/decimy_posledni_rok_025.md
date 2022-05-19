@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Výroky
+contentType: poetry
 ---
-
-## Výroky
 
 Witek Lutoslawski: „Fuj, tady je hic!“  
 (Řek’ údajně, když skládal Koncert wiolonczelowy.)  

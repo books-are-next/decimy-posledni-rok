@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: ''
+contentType: poetry
 ---
 
 Svítání. Malá pláž v Grossetu, chlad, pěna jemně naléhající na pobřežní písek, pach soli a vůně cigarety, která jak hřeb je vbita těžkými údery brunátně se valícího rána mezi mé fialové, fosforové prsty. Rudě žíhaný jazyk v široce rozevřených ústech oceánu.
@@ -10,4 +11,4 @@ Usazen mezi dva hrby slasti, cítím se požehnán, jako je požehnána tato zem
 
 Bytuji na střechách, plážích a ulicích městečka, jež miluji absurdní láskou, co místo osudových poznání. Grosseto, můj sne, můj přelude, zázraku nového ticha, sklenko vykřičených slastí, prahu, z něhož přepadám zvolna do nicoty…
 
-Point of no return!
+_Point of no return!_

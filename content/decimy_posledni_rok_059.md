@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: ''
+contentType: poetry
 ---
 
 Přede mnou leží fotografie. Jsou ti pouhé tři roky, možná trochu méně, nevím, je to už dávno. Obě tvé tváře, brada i nos jsou schovány pod nánosem bílého maminčina krému, ruce vztaženy prudce kupředu, roztažené, napjaté prstíky. Mohlo by to gesto znamenat „nepřibližujte se ke mně“, mohlo být vyvoláno snahou uchránit onu velkolepou – a ovšem zakázanou – proměnu. Ale tvůj úsměv, tvá ústa a krásné oči svědčí o tom, že náš hněv byl v tu chvíli mnohem menší než radost a potěšení z tebe, nerozumného tvorečka. Je to gesto, jakým se čaruje. A ty, maličký šaman v bílé masce, nás tímto gestem zaklínáš…

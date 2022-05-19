@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: "Čaj o\_páté"
+contentType: poetry
 ---
-
-## Čaj o páté
 
 Vidím tvá červená ústa rozesmátá,  
 leží v nich pepř a máta.  

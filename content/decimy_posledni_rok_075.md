@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: EPILOG, PO LETECH
+contentType: poetry
 ---
 
-## EPILOG, PO LETECH
+

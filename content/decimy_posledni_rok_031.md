@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Hromádka v\_lebce mé…"
+contentType: poetry
 ---
 
-## Hromádka v lebce mé…
-
-Jiřině Kristové
+_Jiřině Kristové_
 
 Měkkých letních rezonancí voda tiše plyne,  
 nechám ji téci — a jdu zavolat Ině.  
