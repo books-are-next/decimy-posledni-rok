@@ -1,6 +1,6 @@
 ---
 title: '* * *'
-contentType: poetry
+contentType: prose
 ---
 
 Zavoněl koks, na stránkách Šlaráfie  

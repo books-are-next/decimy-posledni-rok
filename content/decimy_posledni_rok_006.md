@@ -1,6 +1,6 @@
 ---
 title: Pěvec
-contentType: poetry
+contentType: prose
 ---
 
 Hosty své večerní odvádí do ticha,  

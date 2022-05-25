@@ -1,9 +1,9 @@
 ---
 title: Doupě literátů
-contentType: poetry
+contentType: prose
 ---
 
-Choval se galantně jako _Pán prstenů_,  
+Choval se galantně jako Pán prstenů,  
 polibek na krajky a lehká úklona.  
 Dřímal v svém pokoji, když cosi ťuklo na…  
 Lenoro, jsi to ty? — Vystříkla na stěnu  

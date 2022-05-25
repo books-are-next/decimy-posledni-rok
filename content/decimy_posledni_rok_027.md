@@ -1,6 +1,6 @@
 ---
 title: "*\_*\_*"
-contentType: poetry
+contentType: prose
 ---
 
 Myslím zas na kořínky  

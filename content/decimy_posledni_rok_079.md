@@ -1,13 +1,13 @@
 ---
 title: ''
-contentType: poetry
+contentType: prose
 ---
 
-**Martin Reiner  
+Martin Reiner  
 Decimy  
-Poslední rok**
+Poslední rok
 
-**2\. verze**
+2\. verze
 
 Ilustrace na obálce Merfin/Shutterstock.com
 

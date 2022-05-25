@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: poetry
+contentType: prose
 ---
 
 Město jen v páře a v krvi,  

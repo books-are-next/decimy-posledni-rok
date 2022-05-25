@@ -1,6 +1,6 @@
 ---
 title: Tvá píseň
-contentType: poetry
+contentType: prose
 ---
 
 Jsi-li shánčivý a přičinlivý, alespoň trochu,  

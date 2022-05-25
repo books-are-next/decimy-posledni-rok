@@ -1,6 +1,6 @@
 ---
 title: Výroky
-contentType: poetry
+contentType: prose
 ---
 
 Witek Lutoslawski: „Fuj, tady je hic!“  

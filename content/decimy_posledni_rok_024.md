@@ -1,6 +1,6 @@
 ---
 title: Noční hovory
-contentType: poetry
+contentType: prose
 ---
 
 Dopil jsem vavřince, polkl sliny sladké.  

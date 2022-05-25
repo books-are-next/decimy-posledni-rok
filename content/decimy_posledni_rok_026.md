@@ -1,6 +1,6 @@
 ---
 title: Sen
-contentType: poetry
+contentType: prose
 ---
 
 Bouchly dveře. Odešla Nostalgie —  

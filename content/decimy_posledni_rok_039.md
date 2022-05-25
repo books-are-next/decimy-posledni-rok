@@ -1,6 +1,6 @@
 ---
 title: '* * *'
-contentType: poetry
+contentType: prose
 ---
 
 Musím se zmínit o dráze této střely:

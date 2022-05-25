@@ -1,9 +1,9 @@
 ---
 title: Mezi námi
-contentType: poetry
+contentType: prose
 ---
 
-_Jitce Lit_
+Jitce Lit
 
 Ráno sedlo na troleje,  
 z hlubin spánku procit’ sad.  

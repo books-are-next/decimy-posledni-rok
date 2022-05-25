@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: poetry
+contentType: prose
 ---
 
 Ráno při mytí růže protékají rovnou mezi prsty. Borovice jako zhojení Prométheové dlí pokojně vprostřed skal, už ani ne přikované, leč toliko všité nitkami kořenů do plenéru. Fíky plodí hojně jako v Ráji. Temné hrušky jejich plodů se ještě houpou na horních haluzích, když líčka nových plodů při zemi již rumějí.

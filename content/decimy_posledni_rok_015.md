@@ -1,9 +1,9 @@
 ---
 title: Hon
-contentType: poetry
+contentType: prose
 ---
 
-_Petře Michaličkové_
+Petře Michaličkové
 
 Je mi smutno po té Angličance,  
 seděla vedle mne na pohřbu mého dědy.  

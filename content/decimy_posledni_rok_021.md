@@ -1,12 +1,12 @@
 ---
 title: Herna Úsvit
-contentType: poetry
+contentType: prose
 ---
 
-_Simoně Cahové_
+Simoně Cahové
 
 Teď když mám napnutou pleť batolete,  
-_pochválen buď Sebamed_, a ne báby stoleté,  
+pochválen buď Sebamed, a ne báby stoleté,  
 když terče hvězd jsou v jeden slity  
 a Čert vzal všechny jehovity,  
 již bloumali tu po domech —  

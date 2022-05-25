@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: poetry
+contentType: prose
 ---
 
 Všude tma. Pokoj je plný mého olbřímího těla. Kdo ulehá v tuto chvíli, nebude snad více probuzen. Jako malé dítě ukrývám se v řádcích.

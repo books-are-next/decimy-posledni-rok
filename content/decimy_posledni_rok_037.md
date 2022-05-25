@@ -1,6 +1,6 @@
 ---
 title: '* * *'
-contentType: poetry
+contentType: prose
 ---
 
 Byla jsi delikátní snítka bezu  

@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: poetry
+contentType: prose
 ---
 
 Usedni na lavečku tohoto prámu, pusť se se mnou na jezero. Veslování, pomalé a tiché kladení vesel na večerní hladinu. Poslední paprsek klouže nad bezednými hlubinami všeho, co jsme vyřkli a už nezískali zpět.

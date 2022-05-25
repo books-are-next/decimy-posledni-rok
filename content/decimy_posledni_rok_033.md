@@ -1,6 +1,6 @@
 ---
 title: '* * *'
-contentType: poetry
+contentType: prose
 ---
 
 Světla vozu, hučivé tření nočních pneumatik o asfalt.  

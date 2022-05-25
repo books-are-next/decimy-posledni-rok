@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: poetry
+contentType: prose
 ---
 
 Do černých bot se opírá slunce, vzduch třeští, řítící se vlak chvílí otřásá útrobami kopce a pak náhle vystrčí hlavu jen malý kousek od tvé hlavy. Lekl ses hada? Kniha dne otevřena kdesi uprostřed, leží tu pohozena, dokořán, úběl stránek bije do očí. Není však vánek, jenž pohnul by stránkou.

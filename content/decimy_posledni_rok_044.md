@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: poetry
+contentType: prose
 ---
 
 Neděle odpoledne. Ze zahrady stoupá vůně a křik dětí. Soused vytahuje hřebíky z trámu.

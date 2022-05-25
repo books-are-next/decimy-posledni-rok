@@ -1,6 +1,6 @@
 ---
 title: Nedělní odpoledne po kopané
-contentType: poetry
+contentType: prose
 ---
 
 Hořavy v oknech Kampeličky spoří,  

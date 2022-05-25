@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: poetry
+contentType: prose
 ---
 
 Znění tohoto textu vychází z díla [Decimy; Poslední rok](https://search.mlp.cz/cz/titul/decimy-posledni-rok/2015193/) tak, jak bylo vydáno nakladatelstvím Petrov v Brně v roce 1998. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.

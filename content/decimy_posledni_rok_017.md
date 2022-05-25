@@ -1,9 +1,9 @@
 ---
 title: Ty
-contentType: poetry
+contentType: prose
 ---
 
-_J. L._
+J. L.
 
 Budou mne zváti — lolitky, zaječice —  
 ku zření dětského smilstva a plachosti.  

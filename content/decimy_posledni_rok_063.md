@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: poetry
+contentType: prose
 ---
 
 Na zahradě přezrávají meruňky. Ve vyprázdněném pokoji, kam už se nechodí, mezi holými stěnami, poletují sluncem ozářená smítka prachu. Na starém stole stojí nový psací stroj.

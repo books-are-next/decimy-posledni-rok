@@ -1,6 +1,6 @@
 ---
 title: Budoucí něha
-contentType: poetry
+contentType: prose
 ---
 
 Stejně se obracím, ač neměl bych:  

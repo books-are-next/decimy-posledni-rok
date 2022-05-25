@@ -1,6 +1,6 @@
 ---
 title: "Starej trik s\_chrámem panny Rejčky"
-contentType: poetry
+contentType: prose
 ---
 
 Projdeš se, Haničko? Pojď.  

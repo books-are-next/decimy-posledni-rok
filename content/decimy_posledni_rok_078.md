@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: poetry
+contentType: prose
 ---
 
 Sedím jak ještěrka na vyhřátém kameni. Dívám se na moře, které je opět plné plachetnic a motorových člunů. Lodě přejedou a moře bude prázdné. Sedám k psacímu stroji.

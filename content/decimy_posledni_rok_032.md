@@ -1,6 +1,6 @@
 ---
 title: "*\_*\_*"
-contentType: poetry
+contentType: prose
 ---
 
 Přijel jsem ráno, a jsem tu na zapřenou.  

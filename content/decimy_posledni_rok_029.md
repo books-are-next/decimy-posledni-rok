@@ -1,6 +1,6 @@
 ---
 title: "Čaj o\_páté"
-contentType: poetry
+contentType: prose
 ---
 
 Vidím tvá červená ústa rozesmátá,  

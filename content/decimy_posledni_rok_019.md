@@ -1,9 +1,9 @@
 ---
 title: "Mezi námi\_— Lisabon"
-contentType: poetry
+contentType: prose
 ---
 
-_J. L._
+J. L.
 
 Karneval, ještě karneval, a potom pá, buď zdráva —  
 („Ještě tě mám, ještě mi vpadáš mokrým klínem do zad.“)  

@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: poetry
+contentType: prose
 ---
 
 Sotva ulehnu, jdou po mně sny. Za záclonou se třpytí ptáci, slunce štěbetá, listí kráčí středem ulice, vozy spí v odpoledním žáru, a má bolestivě nedospaná noc se nalézá v ranci mizejícího chodce.

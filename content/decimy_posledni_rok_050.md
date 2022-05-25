@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: poetry
+contentType: prose
 ---
 
 Putuji, a ty jsi má jizva na rtu. Den se již odrazil od něžného nártu. Požárník dobývá červánky v záclonách. Hoří tvé paže, žirafy ztepilé.

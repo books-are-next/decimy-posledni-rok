@@ -1,6 +1,6 @@
 ---
 title: Rožně
-contentType: poetry
+contentType: prose
 ---
 
 Obléknu kabát, vyjdu z bytu,  

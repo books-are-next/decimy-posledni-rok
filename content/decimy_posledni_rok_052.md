@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: poetry
+contentType: prose
 ---
 
 Je jedenáct a tvůj pokoj je prázdný. Noc se navíjí na větve stromů jako vlákno na prsty zasněného tkalce. Černý stín třešně se dotýká prahu. V louži se odráží mdlá záře. Skoč! – a budeš také vymrštěn zpět do vlastních tratolišť.

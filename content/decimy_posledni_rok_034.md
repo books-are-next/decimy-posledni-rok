@@ -1,6 +1,6 @@
 ---
 title: Nocturno
-contentType: poetry
+contentType: prose
 ---
 
 Ticho žebrá v noci. A ta natažená ruka,  

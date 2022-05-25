@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: poetry
+contentType: prose
 ---
 
 Jak sedí vedle sebe, jedna mladší, druhá starší  
