@@ -3,6 +3,8 @@ title: Hebkost let minulých
 contentType: prose
 ---
 
+<section>
+
 Mirce Havlíkové
 
 Stojím tu v kalhotách mrtvého kamaráda.  
@@ -15,3 +17,5 @@ na náš pronajatý byt, na naše hádky.
 Rád bych tě slyšel, ale telefonní dráty  
 míří do tmy a tam se mi ztrácejí…  
 Jdou jako kořeny hlouběji do země.
+
+</section>

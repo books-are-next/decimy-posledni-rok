@@ -3,6 +3,8 @@ title: Poslední služba
 contentType: prose
 ---
 
+<section>
+
 J. L.
 
 Počítáš se mnou, až půjdeš do nebe?  
@@ -17,3 +19,5 @@ když s tebou do nebe půjdu já?!
 tak jako v květnu ’91 v Grossetu,  
 kdy v bezmezné touze po letu  
 hltal jsem všechny tvé temnější stránky.)
+
+</section>

@@ -3,6 +3,8 @@ title: "Starej trik s\_chrámem panny Rejčky"
 contentType: prose
 ---
 
+<section>
+
 Projdeš se, Haničko? Pojď.  
 Vezmeme zápalky do tmy u kostela  
 a až po desáté dozní souhra zvonů znělá,  
@@ -15,3 +17,5 @@ Naoko volám: „Stůjte při nás všichni bozi!“
 
 (Však za kulisou na otavách pasou se leč kozy…  
 Ten chrám panny Rejčky byl jen starej trik.)
+
+</section>

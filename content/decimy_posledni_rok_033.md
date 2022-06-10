@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 Světla vozu, hučivé tření nočních pneumatik o asfalt.  
 Nade mnou hrad Bítov, tisíc let rozpuštěných v půdě,  
 anděl zachyt’ faráře Tallhoffera, právě vyrážíme  
@@ -14,3 +16,5 @@ rybáři hledí na kolébání splávků, lhostejní
 k tajemství říční hladiny, již nikdy zcela neprostoupíme.  
 Neprostoupilo ji zcela ani nahé bílé tělo jisté Ireny,  
 tělo z křišťálového studu, ale jen zpočátku…
+
+</section>

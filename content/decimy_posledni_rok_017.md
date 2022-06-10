@@ -3,6 +3,8 @@ title: Ty
 contentType: prose
 ---
 
+<section>
+
 J. L.
 
 Budou mne zváti — lolitky, zaječice —  
@@ -17,3 +19,5 @@ prach na ochoze roztočí se do spirály —
 a bludný mikrocyt zas přivede tě z dáli:
 
 Pro tebe hořím ich, rudý zlata vích!
+
+</section>

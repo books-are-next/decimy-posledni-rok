@@ -3,6 +3,8 @@ title: Tvá perspektiva
 contentType: prose
 ---
 
+<section>
+
 Ivanu Blatnému
 
 Ach štíhlá vázo holuba, žalostná svým  
@@ -16,3 +18,5 @@ až už mně nepůjdou ženy po pyji,
 protože budu v zemi celý trouchniv,  
 až myšlenky mé budou oděny v sukno niv,  
 pak z tebe — to si piš! — se ještě rádi napijí.
+
+</section>

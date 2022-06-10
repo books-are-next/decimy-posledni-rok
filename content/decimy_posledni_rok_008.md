@@ -3,6 +3,8 @@ title: Rožně
 contentType: prose
 ---
 
+<section>
+
 Obléknu kabát, vyjdu z bytu,  
 venku je chladno, ale jde to.  
 Potkávám bryčku, v níž odjíždí léto.  
@@ -13,3 +15,5 @@ někdo, kdo můj los
 drží pevně v ruce.  
 Někde to spletou a já nebudu nucen  
 otáčet tělo své kolem nových os.
+
+</section>

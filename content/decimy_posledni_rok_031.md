@@ -3,6 +3,8 @@ title: "Hromádka v\_lebce mé…"
 contentType: prose
 ---
 
+<section>
+
 Jiřině Kristové
 
 Měkkých letních rezonancí voda tiše plyne,  
@@ -17,3 +19,5 @@ Průhledných ráčků vyhynulý druh
 sune se pozadu míchou  
 zteplalého vzduchu.  
             (Hromádka v lebce mé plná zlatých much.)
+
+</section>

@@ -3,6 +3,8 @@ title: Dopis č\. 47
 contentType: prose
 ---
 
+<section>
+
 K. B.
 
 Hlas v prdeli, tyhle stavy po chřipce,  
@@ -15,3 +17,5 @@ Chtěl bych Ti říct, sorry I never told you
 a konečně všechno vyjevit, přinést na  
 podnose, jenže já vždycky všechno  
 řekl hned, víš, že Tě chci, co k tomu dodat?
+
+</section>

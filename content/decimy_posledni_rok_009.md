@@ -3,6 +3,8 @@ title: Mezi námi
 contentType: prose
 ---
 
+<section>
+
 Jitce Lit
 
 Ráno sedlo na troleje,  
@@ -16,3 +18,5 @@ Stáli jsme přede dveřmi,
 Pak ses ptala: „Pláč, nebo smích?“  
 Ale já se nenamích’  
 a řekl jsem ti: „Věř mi.“
+
+</section>

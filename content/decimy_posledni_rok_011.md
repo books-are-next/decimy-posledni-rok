@@ -3,6 +3,8 @@ title: Život je
 contentType: prose
 ---
 
+<section>
+
 K. B.
 
 Je noc. A do tmy zpívá Mark Hollis,  
@@ -15,3 +17,5 @@ bílou prvosenkou, aby si žádnej nevšim’,
 jakých vnad tenata kladeš svému sýčku.“  
 Ten tu ve tmě čichá k voňavému tričku,  
 sám… tedy bez těla, jež jistě… ale ne vším!
+
+</section>

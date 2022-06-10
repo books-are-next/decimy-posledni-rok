@@ -3,6 +3,8 @@ title: Okno
 contentType: prose
 ---
 
+<section>
+
 Ta stará vypadá pořád celkem mladě.  
 Sukni si převléká, chystá se domů.  
 (Ivan Wé řekl by do Mů.)  
@@ -14,3 +16,5 @@ Pomalu píšu jak můj milovaný Hásek
 Co by tak napsal o té staré v okně?  
 „Na prahu jari ešte raz sa podkne,  
 kto volal jeseň s malou silou v hlase.“
+
+</section>

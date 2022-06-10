@@ -3,6 +3,8 @@ title: Tvá píseň
 contentType: prose
 ---
 
+<section>
+
 Jsi-li shánčivý a přičinlivý, alespoň trochu,  
 pak jistě vesel vrátíš se mi z vřavy.  
 A protože tě znám, je už teď čas myslet na oslavy,  
@@ -14,3 +16,5 @@ budeme chránit svoje děti chabou mříží z lýka,
 a potom konečně si řeknem, že je pozdě,  
 že je vampýr na kříž přibit, povzdech,  
 a já sama ve snu: Prsty noci uchopená klika.
+
+</section>

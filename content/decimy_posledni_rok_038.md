@@ -3,6 +3,8 @@ title: Doupě literátů
 contentType: prose
 ---
 
+<section>
+
 Choval se galantně jako Pán prstenů,  
 polibek na krajky a lehká úklona.  
 Dřímal v svém pokoji, když cosi ťuklo na…  
@@ -14,3 +16,5 @@ kvantová čísla a spiny —
 to si jen vymýšlím, prostě jen hloupě.  
 Decima o krvi, mé dočasné doupě.  
 Stejně v něm číhá kdos jiný.
+
+</section>

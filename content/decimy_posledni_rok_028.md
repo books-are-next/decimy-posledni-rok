@@ -3,6 +3,8 @@ title: Budoucí něha
 contentType: prose
 ---
 
+<section>
+
 Stejně se obracím, ač neměl bych:  
 tu kštice hořícího lesa,  
 tu Panna, která v ohni plesá —  
@@ -14,3 +16,5 @@ Na startu zamával fanynkám Claude Killy,
 teď klouže dolů po sněhu:  
 pomalé obloučky… připrav se na něhu…  
 … až jednou dorazíš k cíli.
+
+</section>

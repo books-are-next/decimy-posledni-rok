@@ -3,6 +3,8 @@ title: Pusté město, pustý sad
 contentType: prose
 ---
 
+<section>
+
 J. L.
 
 Z kamenných nástrojů svívá vítr prach,  
@@ -16,3 +18,5 @@ Teď chci jen — nežli mne zavane pouštní písek —
 být tady pro průniky tvého kordu,  
 aktivně účasten. Být krásná oběť velikého mordu.  
 Polapen při každé z tvých čistek…
+
+</section>
