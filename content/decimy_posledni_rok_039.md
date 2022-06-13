@@ -15,7 +15,7 @@ jsem. Městem už voní levandule dětí.
 Utíkám do postele, chvíli zdřímnu si,  
 a v krátkém ranním snu mi Chittussi  
 nakape smutek do očí.  
-                                 Těsně před probuzením  
+             Těsně před probuzením  
 jsem na své svatbě, poprvé se žením —  
 slánka padá ze stolu, roztříští se na kusy.
 
