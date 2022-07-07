@@ -1,8 +1,9 @@
 ---
+title: Nedělní odpoledne po kopané
 contentType: prose
 ---
 
-## Nedělní odpoledne po kopané
+<section>
 
 Hořavy v oknech Kampeličky spoří,  
 seno je malátné. Po římse vraník  
@@ -16,3 +17,5 @@ do Dory dolíku vklouznou mé prsty.
 (Dora: „Pojď honem skrz, ty…“)
 
 Pálíme v klíně si slaměný chrám.
+
+</section>

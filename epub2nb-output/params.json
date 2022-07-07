@@ -1,6 +1,7 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Decimy; Poslední rok",
       "identifier": "469554fb-9671-48c8-abe5-f9efca6d2c1e",
       "author": "Martin Reiner",
@@ -8,7 +9,7 @@
       "modified": "2019-10-22T00:00:00.000Z"
     },
     "elements": {
-      "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola\nmlpuroven2basne",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis\nMLP_uroven3_nadpis",
       "h3": "",
@@ -17,20 +18,21 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "verse": "MLP-verse\nMLP-verse.+",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
-      "ignore": ""
+      "ignore": "",
+      "verse": "MLP-verse\nMLP-verse.+"
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "decimy_posledni_rok_001.md",
@@ -945,181 +947,181 @@
         "xhtml": "decimy_posledni_rok_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pěvec",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_006.md",
         "xhtml": "decimy_posledni_rok_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_007.md",
         "xhtml": "decimy_posledni_rok_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Rožně",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_008.md",
         "xhtml": "decimy_posledni_rok_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Mezi námi",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_009.md",
         "xhtml": "decimy_posledni_rok_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poslední služba",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_010.md",
         "xhtml": "decimy_posledni_rok_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Život je",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_011.md",
         "xhtml": "decimy_posledni_rok_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nedělní odpoledne po kopané",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_012.md",
         "xhtml": "decimy_posledni_rok_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Drobné spory",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_013.md",
         "xhtml": "decimy_posledni_rok_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Okno",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_014.md",
         "xhtml": "decimy_posledni_rok_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hon",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_015.md",
         "xhtml": "decimy_posledni_rok_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hebkost let minulých",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_016.md",
         "xhtml": "decimy_posledni_rok_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ty",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_017.md",
         "xhtml": "decimy_posledni_rok_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pusté město, pustý sad",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_018.md",
         "xhtml": "decimy_posledni_rok_018.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Mezi námi — Lisabon",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_019.md",
         "xhtml": "decimy_posledni_rok_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Tvá píseň",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_020.md",
         "xhtml": "decimy_posledni_rok_020.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Herna Úsvit",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_021.md",
         "xhtml": "decimy_posledni_rok_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Starej trik s chrámem panny Rejčky",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_022.md",
         "xhtml": "decimy_posledni_rok_022.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Tvá perspektiva",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_023.md",
         "xhtml": "decimy_posledni_rok_023.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Noční hovory",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_024.md",
         "xhtml": "decimy_posledni_rok_024.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Výroky",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_025.md",
         "xhtml": "decimy_posledni_rok_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sen",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_026.md",
         "xhtml": "decimy_posledni_rok_026.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_027.md",
         "xhtml": "decimy_posledni_rok_027.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Budoucí něha",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_028.md",
         "xhtml": "decimy_posledni_rok_028.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čaj o páté",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_029.md",
         "xhtml": "decimy_posledni_rok_029.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Konec léta na rybím trhu",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_030.md",
         "xhtml": "decimy_posledni_rok_030.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hromádka v lebce mé…",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_031.md",
         "xhtml": "decimy_posledni_rok_031.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_032.md",
         "xhtml": "decimy_posledni_rok_032.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_033.md",
         "xhtml": "decimy_posledni_rok_033.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nocturno",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_034.md",
         "xhtml": "decimy_posledni_rok_034.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_035.md",
         "xhtml": "decimy_posledni_rok_035.html"
@@ -1131,31 +1133,31 @@
         "xhtml": "decimy_posledni_rok_036.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_037.md",
         "xhtml": "decimy_posledni_rok_037.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Doupě literátů",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_038.md",
         "xhtml": "decimy_posledni_rok_038.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_039.md",
         "xhtml": "decimy_posledni_rok_039.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sobotní ráno",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_040.md",
         "xhtml": "decimy_posledni_rok_040.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dopis č\\. 47",
         "subtitleSuggest": "",
         "filename": "decimy_posledni_rok_041.md",
         "xhtml": "decimy_posledni_rok_041.html"
@@ -1477,6 +1479,6 @@
       "user": "books-are-next",
       "repo": "decimy-posledni-rok"
     },
-    "generatedAt": 1652971089655
+    "generatedAt": 1657185973848
   }
 }

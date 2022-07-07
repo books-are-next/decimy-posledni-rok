@@ -2,8 +2,9 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Decimy; Poslední rok
   identifier: 469554fb-9671-48c8-abe5-f9efca6d2c1e
   author: Martin Reiner
@@ -94,6 +95,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
@@ -101,5 +103,6 @@ static:
   - fonts
   - resources
   - template-images
+  - assets
   - favicon.png
 ---

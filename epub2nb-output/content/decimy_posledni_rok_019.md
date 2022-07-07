@@ -1,8 +1,9 @@
 ---
+title: "Mezi námi\_— Lisabon"
 contentType: prose
 ---
 
-## Mezi námi — Lisabon
+<section>
 
 J. L.
 
@@ -17,3 +18,5 @@ Mezi námi moře a vzduch. Proplout, proletěti —
 mávat a minout… a tak už, dnes večer, konečně sbal  
 co je mé. Pošli to na můj konec světa. („Karneval?  
 Ne. Roky míří kupředu, od desíti k pěti…“)
+
+</section>

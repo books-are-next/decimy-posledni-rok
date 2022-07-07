@@ -1,8 +1,9 @@
 ---
+title: Hon
 contentType: prose
 ---
 
-## Hon
+<section>
 
 Petře Michaličkové
 
@@ -17,3 +18,5 @@ do toho přijde psaní z Albionu —
 a jako kane k zemi mé semeno i s krví  
 mladičké nebožky, tak snášejí se hebké brvy  
 v průběhu dlouhého, zimního honu.
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 Přijel jsem ráno, a jsem tu na zapřenou.  
 Neví to Kamila, Petra ani Ina.  
@@ -15,3 +16,5 @@ slovní terapie (místo pohlavního styku).
 Na útlou hromádku hrnu černá smítka:  
 že o mně nyní ví jediná Jitka  
 (plující nebem zpět k Atlantiku).
+
+</section>

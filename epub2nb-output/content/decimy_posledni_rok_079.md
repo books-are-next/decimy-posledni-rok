@@ -1,6 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
+
+<section>
 
 Martin Reiner  
 Decimy  
@@ -25,3 +28,5 @@ ISBN 978-80-274-0302-8 (epub)
 ISBN 978-80-274-0303-5 (pdf)
 
 ISBN 978-80-274-0304-2 (prc)
+
+</section>

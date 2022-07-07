@@ -1,8 +1,9 @@
 ---
+title: Život je
 contentType: prose
 ---
 
-## Život je
+<section>
 
 K. B.
 
@@ -16,3 +17,5 @@ bílou prvosenkou, aby si žádnej nevšim’,
 jakých vnad tenata kladeš svému sýčku.“  
 Ten tu ve tmě čichá k voňavému tričku,  
 sám… tedy bez těla, jež jistě… ale ne vším!
+
+</section>

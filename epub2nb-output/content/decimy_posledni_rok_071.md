@@ -1,6 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
+
+<section>
 
 Město jen v páře a v krvi,  
 na tolik žíznivých padá málo deště.  
@@ -11,3 +14,5 @@ Znovu ta okna v krvi a v jantaru,
 vidím tě jinou, leč cítím tě postaru.  
 Vidím tě zraněnou lunárními cykly.  
 Vidím tě přibitou na vrata v Mostaru.
+
+</section>

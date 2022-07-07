@@ -1,6 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
+
+<section>
 
 Na holé větve věší prosincové ráno řídká prostěradla. Smutné tribunály za každým vřelejším stiskem.
 
@@ -11,3 +14,5 @@ Slib mi, prosím, že nebudeš příčinou mého šílenství, i kdybych to jed
 Ty mi ale slib, že zemřu prostou a banální smrtí.
 
 Slib, že do práchnivého kmene mého těla necháš vstoupit cvrčky, ptactvo a teplé dlaně léta…
+
+</section>

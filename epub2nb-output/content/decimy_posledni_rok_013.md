@@ -1,8 +1,9 @@
 ---
+title: Drobné spory
 contentType: prose
 ---
 
-## Drobné spory
+<section>
 
 Mé múze
 
@@ -16,3 +17,5 @@ nechci ti dělat ostudu
 a ani reklamu.  
 Jenom si nehraj, prosím tě, na dámu,  
 sic pudu bydlet zas do sudu!
+
+</section>

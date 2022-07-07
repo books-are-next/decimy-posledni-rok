@@ -1,8 +1,9 @@
 ---
+title: Sen
 contentType: prose
 ---
 
-## Sen
+<section>
 
 Bouchly dveře. Odešla Nostalgie —  
 a už mi nevystrojí, jak dříve vystrojila.  
@@ -15,3 +16,5 @@ Vzpomínky, ptáčci hraví,
 nepřiletí víc na kolísavou snítku  
 stále kratších dní. (Viděl jsem Jitku:  
 za nocí voraři Oravou ji plaví.)
+
+</section>

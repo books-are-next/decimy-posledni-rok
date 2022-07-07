@@ -1,8 +1,9 @@
 ---
+title: Hebkost let minulých
 contentType: prose
 ---
 
-## Hebkost let minulých
+<section>
 
 Mirce Havlíkové
 
@@ -16,3 +17,5 @@ na náš pronajatý byt, na naše hádky.
 Rád bych tě slyšel, ale telefonní dráty  
 míří do tmy a tam se mi ztrácejí…  
 Jdou jako kořeny hlouběji do země.
+
+</section>

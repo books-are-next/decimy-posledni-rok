@@ -1,8 +1,9 @@
 ---
+title: Pusté město, pustý sad
 contentType: prose
 ---
 
-## Pusté město, pustý sad
+<section>
 
 J. L.
 
@@ -17,3 +18,5 @@ Teď chci jen — nežli mne zavane pouštní písek —
 být tady pro průniky tvého kordu,  
 aktivně účasten. Být krásná oběť velikého mordu.  
 Polapen při každé z tvých čistek…
+
+</section>

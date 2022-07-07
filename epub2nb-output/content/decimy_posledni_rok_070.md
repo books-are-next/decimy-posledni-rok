@@ -1,6 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
+
+<section>
 
 To není svědectví, to je jen modlitba, která má vrátit všechno zpět. Údivy, rozkoše, výkřiky, mé i tvé.
 
@@ -15,3 +18,5 @@ MOHU JÍT, čtu ten nápis v tvé koruně, lípo u volejbalových kurtů, MOHU
 A tedy se ptám:
 
 MOHU JÍT ZA NÍ?
+
+</section>

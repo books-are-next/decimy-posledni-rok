@@ -1,8 +1,9 @@
 ---
+title: Herna Úsvit
 contentType: prose
 ---
 
-## Herna Úsvit
+<section>
 
 Simoně Cahové
 
@@ -11,7 +12,7 @@ pochválen buď Sebamed, a ne báby stoleté,
 když terče hvězd jsou v jeden slity  
 a Čert vzal všechny jehovity,  
 již bloumali tu po domech —  
-                                teď rýsuje se šance.  
+             teď rýsuje se šance.  
 Ptám se jí naposled: „Osobo, máte thé?“  
 („Proč vy mě, osobo, tak ráda matete?“)
 
@@ -19,4 +20,6 @@ Ptám se jí naposled: „Osobo, máte thé?“
 „Nebo tě seberou, pojedeš do lázní!“
 
 Však trvalý brek ještěrek  
-                                 horší protuberance.
+             horší protuberance.
+
+</section>
