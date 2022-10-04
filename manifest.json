@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "reiner-decimy-posledni-rok-42a39b2",
-  "revision": "42a39b2",
+  "identifier": "reiner-decimy-posledni-rok-bdba4ad",
+  "revision": "bdba4ad",
   "readingOrder": [
     "promo.html",
     "decimy_posledni_rok_001.html",
@@ -92,8 +92,8 @@
     "decimy_posledni_rok_079.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:36:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664901400051
+    "date": "Tue Oct 04 2022 18:31:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664908315862
   },
   "documents": [
     {
